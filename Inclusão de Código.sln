@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Inclusão de Código", "Inclusão de Código\Inclusão de Código.pyproj", "{728193F5-00CE-476C-B1B5-0190DD99F670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728193F5-00CE-476C-B1B5-0190DD99F670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728193F5-00CE-476C-B1B5-0190DD99F670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB8C8B8-ED4B-4B5E-8217-DCF1C47EAB71}
+	EndGlobalSection
+EndGlobal
